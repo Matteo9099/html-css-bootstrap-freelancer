@@ -28,3 +28,7 @@
     height: 2px;
     background-color: #fff;
 }
+
+.navbar-nav.ms-auto .nav-item:hover a{
+    color: #1abc9c;
+}
