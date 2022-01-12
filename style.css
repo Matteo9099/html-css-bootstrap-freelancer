@@ -33,8 +33,20 @@
     color: #1abc9c;
 }
 
-.star::before, .star::after{
-    width: 100px;
-    height: 3px;
-    background-color: red;
-}
+.star::before, .star::after {
+    content: '';
+    display: inline-block;
+    vertical-align: middle;
+    width: 30%;
+    height: 2px;
+    background-color: #000;
+  }
+
+  .star_white::before, .star_white::after {
+    content: '';
+    display: inline-block;
+    vertical-align: middle;
+    width: 30%;
+    height: 2px;
+    background-color: #fff;
+  }
