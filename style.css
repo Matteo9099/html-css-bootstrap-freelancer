@@ -32,3 +32,9 @@
 .navbar-nav.ms-auto .nav-item:hover a{
     color: #1abc9c;
 }
+
+.bi-star-fill::before {
+    height: 2px;
+    width: 100px;
+    background: red;
+}
