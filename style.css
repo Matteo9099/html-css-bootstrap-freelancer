@@ -39,7 +39,7 @@
     vertical-align: middle;
     width: 15%;
     height: 5px;
-    background-color: #000;
+    background-color:#000;
   }
 
   .star_white::before, .star_white::after {
