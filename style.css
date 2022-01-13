@@ -37,8 +37,8 @@
     content: '';
     display: inline-block;
     vertical-align: middle;
-    width: 30%;
-    height: 2px;
+    width: 15%;
+    height: 5px;
     background-color: #000;
   }
 
@@ -46,7 +46,7 @@
     content: '';
     display: inline-block;
     vertical-align: middle;
-    width: 30%;
-    height: 2px;
+    width: 15%;
+    height: 5px;
     background-color: #fff;
   }
